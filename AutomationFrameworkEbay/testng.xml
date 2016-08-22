@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ebaytestSuite">
+   <test name= "functest">
+       <classes>
+           <class name="com.test.HomePageTest"></class>
+           <class name="com.test.LoginPageTest"></class>
+           
+       </classes>
+      </test> 
+    </suite>
